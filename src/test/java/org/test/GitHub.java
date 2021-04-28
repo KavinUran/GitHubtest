@@ -28,6 +28,15 @@ public class GitHub {
 	}
 	private void method6() {
 		System.out.println("method six");
+		System.out.println("hii");
 
 	}
 }
+
+
+
+
+
+
+
+
