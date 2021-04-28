@@ -26,5 +26,8 @@ public class GitHub {
 		System.out.println("method five");
 
 	}
-	
+	private void method6() {
+		System.out.println("method six");
+
+	}
 }
